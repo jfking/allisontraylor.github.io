@@ -11,7 +11,7 @@ url: allisontraylor.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
-logo_filename: Rice_Owl_Gray.jpg
+logo_filename: rice-logo.svg
 
 # Meta settings
 email: allison.m.traylor@rice.edu

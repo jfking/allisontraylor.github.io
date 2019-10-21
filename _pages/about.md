@@ -1,78 +1,19 @@
 ---
 layout: page
 title: About
-subtitle: I am a smart heading.
+subtitle: About me.
 desc: About me.
 permalink: /about/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Some intro text that is eye catching and should put you reader at ease and confident in your skills.
+<div class="lead lead-about">I’m Allison Traylor, a doctoral student in industrial-organizational (I/O) psychology at Rice University and a Graduate Research Fellow of the National Science Foundation.
 </div>
 
-{::nomarkdown} 
-<figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/profile.png">
-</figure>
-{:/}
+I am a proud native of Louisville (Loo-uh-vuhl), Kentucky, and though I’ve lost my local touch, I still travel there frequently to visit my family. I received my Bachelor’s degree in Management and Political Science from Northeastern University in Boston, where I graduated summa cum laude with honors in business administration. After graduating, I moved to Houston, Texas to pursue my Ph.D. under the advisement of Dr. Eduardo Salas.
 
-Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
-sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
-Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
-[candida](http://murmure.org/.html).
-
----
-
-## Quem fata quamvis
-
-Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
-sublimis conde!
-
-Captum ligno nepotum arisque dimittere
-[maternaque](http://estumectat.net/fugae). Quae maior Typhoeus ramis huius aura
-deprendit instat hirsuta. Miserrima inque: tibi qua, ultimus a Agaue vallibus
-dictos.
-
-1. Perseus est
-2. O Osiris accedat
-3. Repetita usum
-
-Nobis esse, *ut* spe, deducunt albentes, quoque, saxo cepit et quid gerebant
-est. Magnae haec quod, iugeribus gemmata. Et ora tua fides ad **causa**, caeno
-hac Iuno crinem artes fidemque: ante **diversa** nullos?
-
-## Si leti tegit undis quam
-
-Lorem markdownum caesariem aequore virtus nunc vittas, nec perosus urbem est:
-verba est eripere quater obvertit geminaverat amore. Ac freto. Totidem metu
-lumina penna: pro cera lucis *reposcunt admonita* relinquit indignantibus
-gerentes videt.
-
-Et **mixtos alium** adiacet ordine, vidisse nurus: vestem. *Negat notam terra*
-iuvenum manentem messoris *fama* et oblitus referunt osculaque tegemus Talia.
-Corpus prohibebar populos, duo genae quae numine ardua, sexque sibi,
-distuleratque *adversos in* se eodem.
-
-- Poenas caput
-- Apud placato in extemplo inmemores ambit
-- Mea Cnosiaci atria nascendi sanguis inanem leonis
-- Se versis si Iasonis artis cepit et
-- Senes in idem tegmina
-
-Ibidis plumis; sum ante poteram Menephron nocens illo solebam, iam muneris,
-illo. Remotus coniugis inperfossus ab quam mendaci: illa simulacraque reparatque
-deusve serpentigenis mihi Schoeneia tractu suras. Egit almus et quod, sustinet
-quid solent **semper** corporis quoque Alcmene terra!
-
----
-
-## Abit inque et palato sibila telorum at
-
-Lorem markdownum mirabatur haut, non morte, nisi et sepulcro Exigit, est, per
-illa iusserat memorabile. Pater damus multa, in lucosque carent oculis adsum
-miseris. Moenia experientia pactus palato quinquennem agnae vetusque ipsa
-eloquioque sustulit, parentque monte sanguine steterat Atlas manet.
+I was inspired to pursue a Ph.D. in I/O psychology much to the thanks of Dr. Paula Caligiuri, my undergraduate mentor who introduced me to academic research. While at Northeastern, I participated in two co-ops (full-time, six-month work experiences) at the National Center on Time and Learning and the TJX Companies. My work in these applied settings demonstrated the practical impact of work in this realm, solidifying my desire to pursue a career in I/O. However, I hope to pursue a career as a faculty member at a reserach-oriented university so that I can generate reserach that will help organizations like the ones I worked at.
 
 </div>
 

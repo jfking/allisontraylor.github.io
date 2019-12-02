@@ -9,5 +9,5 @@ layout: default
 </figure>
 {:/}
 
-Hello! My name is Allison Traylor. Welcome to my website! If you have questions about the content you find on my website, or if you would like a copy of my CV, please contact me directly: allison.m.traylor@rice.edu
+Hello! My name is Allison Traylor. Welcome to my website! If you have questions about the content you find on my website, please contact me directly: allison.m.traylor@rice.edu. If you would like a copy of my CV, click [here](https://www.dropbox.com/s/q9bz3feqjnfnilk/_Traylor%20Blinded%20CV.docx?dl=0).
 </div>
